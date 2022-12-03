@@ -1,0 +1,12 @@
+ICON >> remixicon.com 
+FONT GG >>  Dùng LORA và ROBOTO >> import vào file CSS
+
+worldvectorlogo.com >> Download Logo Free >> file hình đuôi svg 
+
+swiper >>> dùng cho slide
+
+emailjs >>> dùng để gửi email 
+
+Gõ "Windows + ;" >> Để hiện bảng Emoji 
+
+Thu vien scrollrevealjs.org >> Hỗ trợ hình ảnh hiện ra từ từ cho lần đầu load trang và scroll xuống 
